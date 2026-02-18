@@ -12,11 +12,11 @@ export const Footer: React.FC = () => {
           <div className="space-y-10">
             <div className="flex items-center gap-3">
               <div className="bg-brand-secondary p-2.5 rounded-2xl shadow-lg">
-                <GraduationCap className="h-8 w-8 text-white" />
+                <img src="assets\as.svg" className="h-10 w-10 " alt="logo" />
               </div>
               <span className="text-2xl font-black tracking-tight text-white uppercase leading-none">
                 A.S NEPAL<br />
-                <span className="text-brand-primary text-[10px] font-black tracking-[0.4em]">ACADEMY</span>
+                <span className="text-brand-primary text-[10px] font-black tracking-[0.4em]">JAPANESE LANGUAGE ACADEMY</span>
               </span>
             </div>
             <p className="text-slate-500 leading-relaxed text-sm max-w-xs italic">
