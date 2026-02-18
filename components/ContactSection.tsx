@@ -23,9 +23,9 @@ export const ContactSection: React.FC = () => {
 
             <div className="space-y-6">
               {[
-                { icon: <Phone />, label: 'Hotline', value: '+977 (1) 424-5566' },
-                { icon: <Mail />, label: 'Enquiry', value: 'admissions@asnepal.edu.np' },
-                { icon: <MapPin />, label: 'Location', value: 'Kamaladi, Kathmandu, NP' }
+                { icon: <Phone />, label: 'Hotline', value: '+977 (015921369' },
+                { icon: <Mail />, label: 'Enquiry', value: 'aslanguage2024.gakkou@gmail.com' },
+                { icon: <MapPin />, label: 'Location', value: 'Pulchowk, Nepal' }
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-6 group">
                   <div className="w-14 h-14 bg-slate-100 dark:bg-slate-900 text-slate-400 rounded-[1.5rem] flex items-center justify-center group-hover:bg-brand-primary group-hover:text-white transition-all">
