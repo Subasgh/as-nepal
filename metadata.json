@@ -1,0 +1,8 @@
+
+{
+  "name": "A.S Nepal Japanese Language Academy",
+  "description": "Premium Japanese language training, JLPT preparation, and career consultancy for students and professionals seeking opportunities in Japan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
