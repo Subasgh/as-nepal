@@ -39,7 +39,7 @@ export const Navbar: React.FC = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-3">
             <div className="bg-gradient-to-br from-brand-secondary to-brand-primary dark:from-brand-primary/80 dark:to-brand-secondary/80 p-2 rounded-xl shadow-lg">
-            <img src="./as japanese final logo_page-0002.jpg" />
+            <img src="./as japanese final logo_page-0002.jpg" alt="logo" />
             </div>
             <span className="text-lg font-bold tracking-tight text-slate-900 dark:text-white leading-tight">
               A.S NEPAL
